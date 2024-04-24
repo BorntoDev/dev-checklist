@@ -4,7 +4,7 @@
 
 ## ความรู้พื้นฐานของ Computer Science
 
-- [ ] JavaScript
+- [x] JavaScript
 - [ ] Python
 - [ ] Java
 - [ ] C#
